@@ -3,7 +3,8 @@
 
 ## ScreenShots
 <div>
-<img width="300" height="300" alt="Screen Shot 2020-12-14 at 9 00 12 PM" src="https://user-images.githubusercontent.com/44253680/102086763-f0ede280-3e5b-11eb-94fb-d209435c2544.png">
+<img width="1080" alt="Screen Shot 2020-12-14 at 10 43 14 PM" src="https://user-images.githubusercontent.com/44253680/102088143-da488b00-3e5d-11eb-863b-6cfd215f8b1e.png">
+
 </div>
 
 ## Description
